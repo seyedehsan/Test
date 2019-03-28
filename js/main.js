@@ -27,5 +27,5 @@ let admin = new Admin('Mohsen', 'Seyedian', 45);
 let users = [userOne, userTwo, admin];
 
 console.log(users);
-admin.deleteAccount('Majid');
+admin.deleteAccount('Majide');
 console.log(users);
